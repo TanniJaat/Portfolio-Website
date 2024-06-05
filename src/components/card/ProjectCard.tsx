@@ -26,7 +26,7 @@ function ProjectCard(
       <div className='flex  gap-4'>
         
      <ExButton text={'Github'} link={gitLink} className={' '}/>
-     <ExButton text={'Live Demo'} link={liveLink} className={'md:px-2 md:py-2'}/>
+     <ExButton text={'Live Demo'} link={liveLink} className={'sm:px-2 sm:py-2'}/>
       </div>
 
     </div>
