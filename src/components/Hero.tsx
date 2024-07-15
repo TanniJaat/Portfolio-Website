@@ -17,7 +17,7 @@ function Hero() {
             </div>
             {/* right part */}
             <div className='flex flex-col items-center justify-center gap-4 '>
-                <p className='opacity-80 font-semibold -mb-3 '>Hello i&aposm</p>    
+                <p className='opacity-80 font-semibold -mb-3 '>Hello i'm</p>    
 
                 <h1 className='lg:text-5xl md:text-5xl   font-semibold'>Tanishk Dhaka</h1>
 
